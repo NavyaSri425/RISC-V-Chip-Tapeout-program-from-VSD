@@ -20,6 +20,7 @@ $ make config-gcc
 $ make
 $ sudo make install
 ```
+![image alt](https://github.com/NavyaSri425/RISC-V-Chip-Tapeout-program-from-VSD/blob/1a08c948991aa07b78405415344432764e77c311/yosys%20installation.png)
 
 ## Iverilog
 ```bash
